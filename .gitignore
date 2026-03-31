@@ -1,0 +1,13 @@
+# Ambientes virtuais
+venv/
+.env
+
+# Arquivos compilados do python
+__pycache__/
+*.pyc
+
+# Pastas de dados
+data/
+
+#Jupyter
+.ipynb_checkpoints
